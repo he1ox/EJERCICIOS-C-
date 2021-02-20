@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\ProgramaCinco\ProgramaCinco\bin\Debug\ProgramaCinco.exe.config
+C:\Users\georg\source\repos\ProgramaCinco\ProgramaCinco\bin\Debug\ProgramaCinco.exe
+C:\Users\georg\source\repos\ProgramaCinco\ProgramaCinco\bin\Debug\ProgramaCinco.pdb
+C:\Users\georg\source\repos\ProgramaCinco\ProgramaCinco\obj\Debug\ProgramaCinco.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ProgramaCinco\ProgramaCinco\obj\Debug\ProgramaCinco.exe
+C:\Users\georg\source\repos\ProgramaCinco\ProgramaCinco\obj\Debug\ProgramaCinco.pdb
+C:\Users\georg\source\repos\ProgramaCinco\ProgramaCinco\obj\Debug\ProgramaCinco.csprojAssemblyReference.cache

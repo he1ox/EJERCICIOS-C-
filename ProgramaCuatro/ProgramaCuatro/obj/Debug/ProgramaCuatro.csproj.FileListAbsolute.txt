@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\ProgramaCuatro\ProgramaCuatro\bin\Debug\ProgramaCuatro.exe.config
+C:\Users\georg\source\repos\ProgramaCuatro\ProgramaCuatro\bin\Debug\ProgramaCuatro.exe
+C:\Users\georg\source\repos\ProgramaCuatro\ProgramaCuatro\bin\Debug\ProgramaCuatro.pdb
+C:\Users\georg\source\repos\ProgramaCuatro\ProgramaCuatro\obj\Debug\ProgramaCuatro.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\ProgramaCuatro\ProgramaCuatro\obj\Debug\ProgramaCuatro.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ProgramaCuatro\ProgramaCuatro\obj\Debug\ProgramaCuatro.exe
+C:\Users\georg\source\repos\ProgramaCuatro\ProgramaCuatro\obj\Debug\ProgramaCuatro.pdb

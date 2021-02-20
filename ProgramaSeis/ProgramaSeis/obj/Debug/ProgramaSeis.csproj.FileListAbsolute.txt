@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\ProgramaSeis\ProgramaSeis\bin\Debug\ProgramaSeis.exe.config
+C:\Users\georg\source\repos\ProgramaSeis\ProgramaSeis\bin\Debug\ProgramaSeis.exe
+C:\Users\georg\source\repos\ProgramaSeis\ProgramaSeis\bin\Debug\ProgramaSeis.pdb
+C:\Users\georg\source\repos\ProgramaSeis\ProgramaSeis\obj\Debug\ProgramaSeis.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\ProgramaSeis\ProgramaSeis\obj\Debug\ProgramaSeis.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ProgramaSeis\ProgramaSeis\obj\Debug\ProgramaSeis.exe
+C:\Users\georg\source\repos\ProgramaSeis\ProgramaSeis\obj\Debug\ProgramaSeis.pdb

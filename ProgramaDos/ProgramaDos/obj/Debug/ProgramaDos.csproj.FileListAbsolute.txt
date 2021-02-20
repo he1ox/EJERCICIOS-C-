@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\ProgramaDos\ProgramaDos\bin\Debug\ProgramaDos.exe.config
+C:\Users\georg\source\repos\ProgramaDos\ProgramaDos\bin\Debug\ProgramaDos.exe
+C:\Users\georg\source\repos\ProgramaDos\ProgramaDos\bin\Debug\ProgramaDos.pdb
+C:\Users\georg\source\repos\ProgramaDos\ProgramaDos\obj\Debug\ProgramaDos.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\ProgramaDos\ProgramaDos\obj\Debug\ProgramaDos.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\ProgramaDos\ProgramaDos\obj\Debug\ProgramaDos.exe
+C:\Users\georg\source\repos\ProgramaDos\ProgramaDos\obj\Debug\ProgramaDos.pdb
